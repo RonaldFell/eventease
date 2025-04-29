@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+ <!-- (scaffolded) -->
+<html lang="en">
+<head>
+    <meta charset="utf-8" /> <!-- (scaffolded) -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!-- (scaffolded) -->
+    <title>@ViewData["Title"] - EventEase</title> <!-- (scaffolded) -->
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> <!-- (scaffolded) -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" /> <!-- (scaffolded) -->
+    <link rel="stylesheet" href="~/EventEase.styles.css" asp-append-version="true" /> <!-- (scaffolded) -->
+    <!-- Added: Google Font for modern typography (created by me) -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+
+    <!-- Added: Custom styling for frosted glass effect and font application (created by me) -->
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center;
+        }
+
+        .glass-container {
+            background: rgba(255, 245, 235, 0.4); /* Light glassy background */
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            padding: 2rem;
+            border-radius: 20px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 1200px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <!-- (scaffolded) -->
+        <!-- Modified: Navbar styled with translucent background and rounded bottom corners (created by me) -->
+        <nav class="navbar navbar-expand-sm navbar-light shadow-sm"
+             style="background-color: rgba(255, 245, 235, 0.75);
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                    backdrop-filter: blur(6px);
+                    -webkit-backdrop-filter: blur(6px);">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">EventEase</a> <!-- (scaffolded) -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <!-- Navigation links (scaffolded but links customized by me) -->
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Venues" asp-action="Index">Venues</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Events" asp-action="Index">Events</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Bookings" asp-action="Index">Bookings</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <!-- (scaffolded) -->
+        <main role="main" class="pb-3 d-flex justify-content-center">
+            <!-- (modified by me: added d-flex and justify-content-center) -->
+            <!-- Added: Glass container wrapping all page content (created by me) -->
+            <div class="glass-container">
+                @RenderBody()
+            </div>
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <!-- (scaffolded) -->
+        <div class="container">
+            &copy; 2025 - EventEase - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script> <!-- (scaffolded) -->
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script> <!-- (scaffolded) -->
+    <script src="~/js/site.js" asp-append-version="true"></script> <!-- (scaffolded) -->
+    @await RenderSectionAsync("Scripts", required: false) <!-- (scaffolded) -->
+</body>
+</html>

@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\venues\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\venues\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\eventease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\eventease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|c:\\cloud dev\\what to submit\\visual studio\\eventease\\eventease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C14B6BFF-F926-488F-AA6C-CDFC5B012090}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Venues\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Venues\\Delete.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Venues\\Delete.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Venues\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T10:48:31.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Venues\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Venues\\Edit.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Venues\\Edit.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Venues\\Edit.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T10:50:19.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Venues\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Venues\\Index.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Venues\\Index.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Venues\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:40:43.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T18:30:50.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Program.cs",
+              "RelativeDocumentMoniker": "EventEase\\Program.cs",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Program.cs",
+              "RelativeToolTip": "EventEase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:39:16.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\appsettings.json",
+              "RelativeDocumentMoniker": "EventEase\\appsettings.json",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\appsettings.json",
+              "RelativeToolTip": "EventEase\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T17:57:37.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Venues\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Venues\\Create.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Venues\\Create.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Venues\\Create.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T10:46:49.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Events\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:39:58.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Events\\Edit.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Events\\Edit.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T10:45:22.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Events\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Events\\Delete.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Events\\Delete.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Events\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T10:44:40.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Events\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T10:44:15.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Bookings\\Index.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Bookings\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwCQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:40:17.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Bookings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Bookings\\Edit.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Bookings\\Edit.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Bookings\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T10:34:40.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Bookings\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Bookings\\Delete.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Bookings\\Delete.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Bookings\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T10:34:09.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Bookings\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T10:32:48.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "EventEase\\Models\\Venue.cs",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Models\\Venue.cs",
+              "RelativeToolTip": "EventEase\\Models\\Venue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:32:11.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventEase\\Models\\Event.cs",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Models\\Event.cs",
+              "RelativeToolTip": "EventEase\\Models\\Event.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:31:07.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "EventEase\\Models\\Booking.cs",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Models\\Booking.cs",
+              "RelativeToolTip": "EventEase\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:29:43.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EventEase\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EventEase\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:09:52.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "EventEase\\Controllers\\VenuesController.cs",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "EventEase\\Controllers\\VenuesController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:15:46.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventEase\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventEase\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:21:47.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventEase\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EventEase\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:17:01.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "EventEase\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "EventEase\\Controllers\\BookingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:19:32.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventEase.csproj",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\EventEase.csproj",
+              "RelativeDocumentMoniker": "EventEase\\EventEase.csproj",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\EventEase.csproj",
+              "RelativeToolTip": "EventEase\\EventEase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T18:00:23.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EventEase\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EventEase\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-03T18:56:04.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Cloud Dev\\What to submit\\Visual Studio\\EventEase\\EventEase\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T18:34:17.406Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
